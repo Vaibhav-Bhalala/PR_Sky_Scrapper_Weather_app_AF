@@ -19,7 +19,7 @@ class _intro_pageState extends State<intro_page> {
           PageViewModel(
             title: "Discover the Weather in Your City",
             body:
-            "Get to know your weather maps and radar precipitation forecast",
+                "Get to know your weather maps and radar precipitation forecast",
             image: Center(
               child: Container(
                 height: double.infinity,
@@ -36,7 +36,7 @@ class _intro_pageState extends State<intro_page> {
         done: Text("done"),
         onDone: () async {
           SharedPreferences preferences = await SharedPreferences.getInstance();
-          preferences.setBool("isIntroVisited", true);
+          preferences.setBool("isIntroVisited", false);
           Navigator.pushReplacementNamed(context, 'Splash');
         },
         next: Text("Next"),

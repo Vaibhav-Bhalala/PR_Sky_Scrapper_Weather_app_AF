@@ -6,7 +6,6 @@ import 'package:pr_weather_app_af/views/Screens/intro_page.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-
 import 'Model/app_model.dart';
 import 'Model/theme_model.dart';
 import 'Providers/app_provider.dart';
@@ -20,7 +19,6 @@ void main() async {
   SharedPreferences prefs = await SharedPreferences.getInstance();
   bool appTheme = prefs.getBool("isDark") ?? false;
 
-  var isvisited;
   runApp(
     MultiProvider(
       providers: [
@@ -52,7 +50,7 @@ void main() async {
         themeMode: (Provider.of<ThemeProvider>(context).themeModel.isDark)
             ? ThemeMode.dark
             : ThemeMode.light,
-        initialRoute: (isvisited) ? 'Splash' : '/',
+        initialRoute: (appTheme == true) ? 'Splash' : '/',
         routes: {
           'HomePage': (context) => const HomePage(),
           '/': (context) => const SplashScreen(),
