@@ -1,3 +1,13 @@
+![Screenshot_20231016_142321](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/05f7ccda-7c12-492f-9160-ba226f1bc41e)
+![Screenshot_20231016_142308](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/b7c66c6f-4e99-4ee3-8425-1cc86806fc36)
+![Screenshot_20231016_142250](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/3ca256b0-28bb-4043-9bde-a9c2afe8d6dc)
+![Screenshot_20231016_142240](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/0771479d-5041-4612-9644-e1d1eb33e0e2)
+![Screenshot_20231016_142213](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/22592cd7-eb84-43cb-a25f-d25c55e95770)
+![Screenshot_20231016_142051](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/612f8aa9-5bd5-4d6f-9a87-b8dbe15d21cb)
+![Screenshot_20231016_141859](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/6aae0e91-2d2b-49e5-b5b4-a9f11efd0b89)
+![Screenshot_20231016_141848](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/b06222e8-26c7-4dc8-9ea7-61fd70ab56b1)
+![Screenshot_20231016_141835](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/4973ffa9-3053-44a2-b9a1-45a4b81c9149)
+![Screenshot_20231016_141818](https://github.com/Vaibhav-Bhalala/PR_Sky_Scrapper_Weather_app_AF/assets/122871366/88b345da-1055-48ad-8234-b966cec9488d)
 Project Definition: Weather App (Sky Scrapper) 
 Project Description: 
 "Sky Scrapper" is a feature-rich weather application built using Flutter, incorporating key concepts such as API calling, Shared Preferences, and network connectivity. The app offers a comprehensive set of functionalities designed to provide users with accurate and timely weather information for cities, states, and countries. 
